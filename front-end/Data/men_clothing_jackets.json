@@ -1,0 +1,362 @@
+[
+    {
+        "title" : "Men's Woven Jacket",
+        "price" : 20,
+        "description" : "Go bigger with the Swoosh. Our full-zip, woven jacket is a versatile, water-repellent outer layer that helps shield you from the elements. It has a concealed hood you can unpack for those windy, rainy days.",
+        "quantity" : 200,
+        "brand" :  "Nike Swoosh",
+        "color" : "white",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4ede5ce1-b9f4-42b8-ac16-bbb0debde4a4/swoosh-woven-jacket-MkRDpr.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9197c74d-38a0-4cdb-9510-390e10d10c5f/swoosh-woven-jacket-MkRDpr.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/35bac2aa-3d3f-45c4-be06-44210edd6166/swoosh-woven-jacket-MkRDpr.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2d2a885a-5346-4eaa-aa93-c8af1464d0cd/swoosh-woven-jacket-MkRDpr.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bd880049-5012-43ca-b4fe-4c978f625338/swoosh-woven-jacket-MkRDpr.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jackets"
+    },
+    {
+        "title" : "Men's Hooded Jacket",
+        "price" : 50,
+        "description" : "The Nike Sportswear Windrunner Jacket updates our first running windbreaker with lightweight fabric made from recycled materials. Design details pulled from the original version provide a heritage Nike look. This product is made from 100% recycled polyester fibres.",
+        "quantity" : 200,
+        "brand" :  "Nike Sportswear Windrunner",
+        "color" : "black",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6da3f8cb-57fb-4ff5-bc4c-dbf3732f8161/sportswear-windrunner-hooded-jacket-VRVMZ4.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/50358b0c-35e9-4f85-bd93-049908fb2dd8/sportswear-windrunner-hooded-jacket-VRVMZ4.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5f800728-25ea-405f-ba8e-3c082b3d6564/sportswear-windrunner-hooded-jacket-VRVMZ4.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/04ab789e-2cd0-44f1-a5ed-b158034e8c72/sportswear-windrunner-hooded-jacket-VRVMZ4.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a84452fc-b06f-4f93-bf2a-5146815adb64/sportswear-windrunner-hooded-jacket-VRVMZ4.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jackets"
+    },
+    {
+        "title" : "Men's Storm-FIT Running Jacket",
+        "price" : 150,
+        "description" : "Consider this your official invitation to sport. Our mission: celebrate the rich history of Nike Running by helping today's athletes and tomorrow's stars in the sport of running.",
+        "quantity" : 2000,
+        "brand" :  "Nike",
+        "color" : "Brown",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/41e1ef44-135a-4d4c-bfa1-376499e6f636/running-jacket-CzFL9z.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/23cb0b79-cf0d-439c-b288-0b3454bac71e/running-jacket-CzFL9z.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f5ab08a2-00c3-47ef-9bd4-1f456ed26933/running-jacket-CzFL9z.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f044d789-829b-4036-87aa-b2056a99644d/running-jacket-CzFL9z.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f80bd225-0eac-4d2a-b0f7-3f701051aeff/running-jacket-CzFL9z.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jackets"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jackets"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jackets"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jackets"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jackets"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jackets"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jackets"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jackets"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jackets"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jackets"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jackets"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jackets"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jackets"
+    }
+]

@@ -1,0 +1,362 @@
+[
+    {
+        "title" : "Men's Fleece Hoodie",
+        "price" : 39,
+        "description" : "Whether you're hanging or hooping, stay fly in this relaxed hoodie. Made from lightweight fleece and with sweat-wicking Dri-FIT Technology, it'll keep you fresh and ready for every opportunity that arises.",
+        "quantity" : 424,
+        "brand" :  "Jordan Dri-FIT Sport Crossover",
+        "color" : "black",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/2bb30686-0f26-4ff2-8016-130dd20512c9/jordan-dri-fit-sport-crossover-fleece-hoodie-frp5JN.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/69b4d613-1e5e-4d79-a69f-3488e178502b/jordan-dri-fit-sport-crossover-fleece-hoodie-frp5JN.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/627e303d-b1a4-464d-810e-8b7f686f5ad7/jordan-dri-fit-sport-crossover-fleece-hoodie-frp5JN.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/6d148fb6-2532-4bb9-a064-f2b57bb6155f/jordan-dri-fit-sport-crossover-fleece-hoodie-frp5JN.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b91c6b36-9b32-418f-84d3-702c6edfcfa9/jordan-dri-fit-sport-crossover-fleece-hoodie-frp5JN.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "hoodies"
+    },
+    {
+        "title" : "Men's Fleece Pullover Hoodie",
+        "price" : 200,
+        "description" : "Spring for a new hoodie. Embroidered graphics bring the drip. The whole thing is made from loopback fleece—a lightweight layer for those chilly mornings.",
+        "quantity" : 452,
+        "brand" :  "Jordan Flight MVP",
+        "color" : "green",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/60f681b4-194a-4fa2-8fae-920986b4bdd8/jordan-flight-mvp-fleece-pullover-hoodie-d6CVJP.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/2392c55c-d72b-4feb-8de1-89bca1935989/jordan-flight-mvp-fleece-pullover-hoodie-d6CVJP.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d3f21007-fa08-45c6-892c-a04c2b4a5ddc/jordan-flight-mvp-fleece-pullover-hoodie-d6CVJP.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/43523f95-7086-4b2e-a5b3-dac69f1da69c/jordan-flight-mvp-fleece-pullover-hoodie-d6CVJP.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/71dcd884-0f9b-4641-8ea1-40f727c26cf4/jordan-flight-mvp-fleece-pullover-hoodie-d6CVJP.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "hoodies"
+    },
+    {
+        "title" : "Hoodie",
+        "price" : 19,
+        "description" : "This premium sweatshirt features new exclusive fleece with reflective design piping, a silicone Swoosh logo and standard NOCTA branding. Guarantees both style and comfort.",
+        "quantity" : 242,
+        "brand" :  "NOCTA",
+        "color" : "gray",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b5bc5f27-9712-435b-8953-a79d3d6ed5cf/nocta-hoodie-dQw5pj.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/aa44a4bd-fecf-4844-8bcf-a62b39b888be/nocta-hoodie-dQw5pj.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b96d9f36-03ff-4a4b-af59-71f43c27111f/nocta-hoodie-dQw5pj.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/79bda1a5-4103-4ed6-89d0-a3e6b2d09092/nocta-hoodie-dQw5pj.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4d27aad5-dfcc-44a7-976a-2421d80255be/nocta-hoodie-dQw5pj.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "hoodies"
+    },
+    {
+        "title" : "Men's Full-Zip Hoodie",
+        "price" : 89,
+        "description" : "Blending 2 of our most iconic looks, this full-zip hoodie draws design inspiration from our timeless Windrunner jacket, as well as our Tech Fleece jacket. It's designed to feel relaxed through the shoulders, chest and body for an athletic fit you can layer. Our premium, smooth-on-both-sides fleece feels.",
+        "quantity" : 4563,
+        "brand" :  "Nike Sportswear Tech Fleece Windrunner",
+        "color" : "brown",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1592a4e8-fc66-492a-97fe-5b84a36e68c1/sportswear-tech-fleece-windrunner-hoodie-hXT8wQ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/acc63859-adab-4501-a911-45c75791d2cc/sportswear-tech-fleece-windrunner-hoodie-hXT8wQ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3e810ec7-f562-4fe4-bed8-38f5e632ef00/sportswear-tech-fleece-windrunner-hoodie-hXT8wQ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bc07f8e2-19e9-4c41-8965-cb8da8b853b8/sportswear-tech-fleece-windrunner-hoodie-hXT8wQ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/62cb3f08-8aaa-44dc-8b79-f8c86a2b7c08/sportswear-tech-fleece-windrunner-hoodie-hXT8wQ.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "hoodies"
+    },
+    {
+        "title" : "Fleece Pullover Hoodie",
+        "price" : 55,
+        "description" : "After walking through the glacial wonders of Iceland, our design team was inspired to make a fleece-lined hoodie to help keep you warm and repel water for cool hikes and wintry walks. Plus, we made it with at least 75% sustainable materials, using a blend of organic cotton and recycled polyester fibres.",
+        "quantity" : 642,
+        "brand" :  "Nike ACG Therma-FIT",
+        "color" : "black",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/edc37952-0f6f-4584-a714-a693450db5b4/acg-fleece-pullover-hoodie-z1r0QM.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d063eacd-4796-435b-b4a7-cdde3f3c812a/acg-fleece-pullover-hoodie-z1r0QM.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/83ac117f-5132-4e9b-923e-f0b55752701f/acg-fleece-pullover-hoodie-z1r0QM.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/32ea6b26-c8d0-46ed-be80-49d79440758f/acg-fleece-pullover-hoodie-z1r0QM.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/02168124-190d-4c03-a915-13c241688c86/acg-fleece-pullover-hoodie-z1r0QM.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "hoodies"
+    },
+    {
+        "title" : "Men's Full-Zip Training Hoodie",
+        "price" : 87,
+        "description" : "The Nike Dri-FIT Hoodie is made from soft French terry fabric with sweat-wicking power to help keep you warm and dry when you're warming up, cooling down or catching your breath between sets. This product is made from 100% sustainable materials, using a blend of both recycled polyester and organic cotton fibres.",
+        "quantity" : 442,
+        "brand" :  "Nike Dri-FIT",
+        "color" : "black",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fc5a1c6e-21c5-4d7f-8919-8571fa90ef7f/dri-fit-training-hoodie-2lpnJK.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ee37d55c-0bf8-4434-ac9d-11eb27394a71/dri-fit-training-hoodie-2lpnJK.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b3d5ca44-922a-476c-90f6-9e6b633bc761/dri-fit-training-hoodie-2lpnJK.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0a977e42-6da5-4c6b-a812-52f1fb6773ae/dri-fit-training-hoodie-2lpnJK.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/56c48d11-97da-48f3-81b0-8e493ce2870e/dri-fit-training-hoodie-2lpnJK.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "hoodies"
+    },
+    {
+        "title" : "Men's Pullover French Terry Hoodie",
+        "price" : 78,
+        "description" : "This Valentine's Day, you know Cupid's arrow won't miss when paired with a Nike classic.",
+        "quantity" : 342,
+        "brand" :  "Nike Sportswear",
+        "color" : "white",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/94b2ffde-baba-4281-a5bd-8c27a1aae105/sportswear-pullover-french-terry-hoodie-XTRhVv.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8dca4f41-b58d-4191-a689-578dc6334aab/sportswear-pullover-french-terry-hoodie-XTRhVv.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7af26505-57a2-43f2-a79a-da234476576f/sportswear-pullover-french-terry-hoodie-XTRhVv.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d7384b83-ca97-4f74-aa79-960d883e0783/sportswear-pullover-french-terry-hoodie-XTRhVv.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/01e2b815-be73-4058-8001-a39e6d47cd01/sportswear-pullover-french-terry-hoodie-XTRhVv.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "hoodies"
+    },
+    {
+        "title" : "Men's Fleece Full-Zip Fitness Hoodie",
+        "price" : 53,
+        "description" : "Embrace the grind of your next workout in this Nike Dri-FIT Hoodie. Nike Dri-FIT technology moves sweat away from your skin for quicker evaporation, helping you stay dry and comfortable. The relaxed fit sits slightly off the body and the graphic means it's made for athletes like you.",
+        "quantity" : 424,
+        "brand" :  "Nike Dri-FIT",
+        "color" : "white",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3917e213-0b15-401e-ba2c-ef9d7b155722/dri-fit-fleece-fitness-hoodie-3TDLfT.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f4cb9eb8-b6bf-4e97-8824-607e42fdf186/dri-fit-fleece-fitness-hoodie-3TDLfT.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4f19afed-c245-42ea-ae0d-b2d35d628aa9/dri-fit-fleece-fitness-hoodie-3TDLfT.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7c3a8d86-30cd-4b52-81d2-474892bd74c2/dri-fit-fleece-fitness-hoodie-3TDLfT.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b9f5e80e-bd24-46d7-a3f3-7dad1de6e56c/dri-fit-fleece-fitness-hoodie-3TDLfT.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "hoodies"
+    },
+    {
+        "title" : "Men's French Terry Crew-Neck Sweatshirt",
+        "price" : 79,
+        "description" : "Minimal branding meets modern comfort in this classic crew neck. Made from super-soft French terry and signed off with an Air Max 1 patch, you'll want to wear this sweatshirt every day.",
+        "quantity" : 546,
+        "brand" :  "Nike Sportswear",
+        "color" : "white",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/548ada0b-cd65-4d07-b83a-69ec3694ea8e/sportswear-french-terry-crew-neck-sweatshirt-GwR7HL.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/aed3b8e2-4372-46ca-adac-23fb9fe93e07/sportswear-french-terry-crew-neck-sweatshirt-GwR7HL.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5f7e3395-e93a-48bf-bab1-b7c6db76e9c6/sportswear-french-terry-crew-neck-sweatshirt-GwR7HL.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fe035b28-a237-4b85-95ca-ad71d0285fb4/sportswear-french-terry-crew-neck-sweatshirt-GwR7HL.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4b49e1a7-aa01-47fe-8079-75f000605790/sportswear-french-terry-crew-neck-sweatshirt-GwR7HL.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "hoodies"
+    },
+    {
+        "title" : "Men's Full-Zip Loopback Fleece Hoodie",
+        "price" : 55,
+        "description" : "Simple, but never basic. This hoodie is made from soft, lightweight fleece that's smooth on the outside and looped on the inside. With a full-zip design and classic Jumpman logo, it'll have you looking forward to layering up.",
+        "quantity" : 645,
+        "brand" :  "Jordan Essentials",
+        "color" : "black",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/fa30900a-1649-4938-afdb-6f36cdecf6b8/jordan-essentials-loopback-fleece-hoodie-VnfZTv.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/c3e62472-ad46-4a53-90cf-dd1f883a2846/jordan-essentials-loopback-fleece-hoodie-VnfZTv.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/181983fc-7fc8-4921-91b5-755313a90333/jordan-essentials-loopback-fleece-hoodie-VnfZTv.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/2b9e59e8-5b83-477a-8f57-b363292af179/jordan-essentials-loopback-fleece-hoodie-VnfZTv.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/40f88b74-ad9b-4c1e-a258-1c336516eed4/jordan-essentials-loopback-fleece-hoodie-VnfZTv.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "hoodies"
+    },
+    {
+        "title" : "Men's Fleece Hoodie",
+        "price" : 19,
+        "description" : "This hoodie exists so you can go big or stay home—and be comfortable either way. It's made from fleece that's smooth on the outside, plush on the inside for that classic cosy feel.",
+        "quantity" : 465,
+        "brand" :  "Jordan Essentials",
+        "color" : "gray",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/6f853417-8162-43aa-85e4-c2335b1e048c/jordan-essentials-fleece-hoodie-QBT8br.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8af46f8a-dbd0-4264-bc54-59df92039d88/jordan-essentials-fleece-hoodie-QBT8br.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4a3e1fea-1381-481d-b6b4-c7d913743aca/jordan-essentials-fleece-hoodie-QBT8br.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/a9b22543-0733-4831-b938-a98a6f3b2a6e/jordan-essentials-fleece-hoodie-QBT8br.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/11fb888c-e89a-4366-8020-b25a67b061fe/jordan-essentials-fleece-hoodie-QBT8br.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "hoodies"
+    },
+    {
+        "title" : "Men's Dri-FIT Pullover Basketball Hoodie",
+        "price" : 78,
+        "description" : "Ja Morant is a self-made superstar. Away from the spotlight, Ja grew up tirelessly working on his game on his back-garden court in South Carolina. From anonymous to all-star, Nike celebrates his journey with this signature apparel collection. ",
+        "quantity" : 456,
+        "brand" :  "JA",
+        "color" : "blue",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6d4f7768-569b-441f-a03d-a0cec974c543/ja-dri-fit-pullover-basketball-hoodie-Cp748n.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/43a8fbc4-1af7-4214-a203-8a664952fd2a/ja-dri-fit-pullover-basketball-hoodie-Cp748n.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b5e515cc-2529-41a9-8a3e-276c2c4320b3/ja-dri-fit-pullover-basketball-hoodie-Cp748n.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/24cc27e6-d809-4fef-a7e4-6801c7446d85/ja-dri-fit-pullover-basketball-hoodie-Cp748n.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4557c7a2-22bd-4a2f-8466-881f928fdaa7/ja-dri-fit-pullover-basketball-hoodie-Cp748n.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "hoodies"
+    },
+    {
+        "title" : "Men's Dri-FIT Pullover Basketball Hoodie",
+        "price" : 74,
+        "description" : "Ja Morant is a self-made superstar. Away from the spotlight, Ja grew up tirelessly working on his game on his back-garden court in South Carolina. From anonymous to all-star, Nike celebrates his journey with this signature apparel collection.",
+        "quantity" : 45,
+        "brand" :  "JA",
+        "color" : "white",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ef7e7cf5-0d2f-414e-984a-86d4882f1c7e/ja-dri-fit-pullover-basketball-hoodie-Cp748n.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9c47c80e-a6fd-4778-8cb3-845a7b9b8cf9/ja-dri-fit-pullover-basketball-hoodie-Cp748n.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e7afbe48-c641-4dc2-be25-e8618d145e89/ja-dri-fit-pullover-basketball-hoodie-Cp748n.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b725f68b-1106-4448-ac7b-b856ffe98e68/ja-dri-fit-pullover-basketball-hoodie-Cp748n.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3adc27b8-ea34-47cd-9a29-a156b4bff0d6/ja-dri-fit-pullover-basketball-hoodie-Cp748n.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "hoodies"
+    },
+    {
+        "title" : "Men's Dri-FIT Hooded Fitness Pullover Hoodie",
+        "price" : 100,
+        "description" : "Made for athletes who push themselves to realise their own growth, this pullover hoodie has a relaxed fit and sweat-wicking fabric to keep you comfortable. The graphics are all about planting those seeds to become a 1% or 100% better version of yourself.",
+        "quantity" : 642,
+        "brand" :  "Nike",
+        "color" : "black",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d8371b4a-1856-43f4-830f-689f0cfc4060/dri-fit-hooded-fitness-pullover-hoodie-QHLZr0.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/97c380f3-3ed7-4e8e-a19d-3c5e3228c0c8/dri-fit-hooded-fitness-pullover-hoodie-QHLZr0.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b5e31c1c-ff0e-424b-bd02-59b29913c177/dri-fit-hooded-fitness-pullover-hoodie-QHLZr0.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3fabc4b9-0d45-4fb3-b8ce-24395114df1d/dri-fit-hooded-fitness-pullover-hoodie-QHLZr0.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c97c9a70-62a2-4bf6-b68c-9858725a9280/dri-fit-hooded-fitness-pullover-hoodie-QHLZr0.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "hoodies"
+    },
+    {
+        "title" : "Men's Dri-FIT Fleece Fitness Crew-Neck Top",
+        "price" : 82,
+        "description" : "With a new year comes new goals. This relaxed fit crew is lightweight and makes sure sweat won't distract from your next workout. Inspired by the growth we see in nature, the graphics are all about planting the seeds to become a 1% or 100% better version of yourself.",
+        "quantity" : 642,
+        "brand" :  "Nike",
+        "color" : "blue",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/69e82709-5e1d-45c9-a86a-50597fa4426d/dri-fit-fleece-fitness-crew-neck-top-C8vwRn.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/70e769a6-cb72-4240-be8d-fd0075b68f16/dri-fit-fleece-fitness-crew-neck-top-C8vwRn.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/973eabe1-75ef-436c-8b8f-72a25fffc6ee/dri-fit-fleece-fitness-crew-neck-top-C8vwRn.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/78c917bd-7304-4cab-9f2d-06b7b70ce2a0/dri-fit-fleece-fitness-crew-neck-top-C8vwRn.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ca6c1f77-e91f-452b-9b7f-b3806dc6c250/dri-fit-fleece-fitness-crew-neck-top-C8vwRn.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "hoodies"
+    }
+]

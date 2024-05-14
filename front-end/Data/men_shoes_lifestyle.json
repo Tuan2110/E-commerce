@@ -1,0 +1,362 @@
+[
+    {
+        "title" : "Men's Shoes",
+        "price" : 50,
+        "description" : "In love with the classic look of '80s basketball but have a thing for the fast-paced culture of today's game? Meet the Nike Court Vision Low. A classic remixed with at least 20% recycled materials by weight",
+        "quantity" : 500,
+        "brand" :  "Nike Court Vision Low Next Nature",
+        "color" : "white",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0084df47-cf15-41d5-aab6-984460364e41/court-vision-low-next-nature-shoes-N2fFHb.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9eaa59f5-6513-4335-a62e-de425a154c00/court-vision-low-next-nature-shoes-N2fFHb.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8b451aeb-7453-4476-a902-72be8209bf99/court-vision-low-next-nature-shoes-N2fFHb.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6f0ecd1d-1757-4765-aded-a5230d448095/court-vision-low-next-nature-shoes-N2fFHb.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1177c9c2-0033-4c4a-aac1-102acd8d1fb4/court-vision-low-next-nature-shoes-N2fFHb.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "lifestyle"
+    },
+    {
+        "title" : "Shoes",
+        "price" : 200,
+        "description" : "A mash-up of past Pegasus sneakers, the P-6000 takes early-2000s running to modern heights. Featuring airy mesh and sporty lines, it's the perfect mix of head-turning looks and breathable comfort.",
+        "quantity" : 40,
+        "brand" :  "Nike P-6000",
+        "color" : "white",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fa1bceaf-21bc-44b5-853b-33eac3c34e2b/p-6000-shoes-5qgkXp.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/06b31a14-a95d-4aaf-848d-6babe386105c/p-6000-shoes-5qgkXp.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c8c72cfd-0fe4-4ff8-aa13-6edb641adcc1/p-6000-shoes-5qgkXp.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/eee3ab36-8e55-4343-abcf-ccabe06e2f32/p-6000-shoes-5qgkXp.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5cba8ba3-3d1f-4d82-a202-6ce5a73b62a0/p-6000-shoes-5qgkXp.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "lifestyle"
+    },
+    {
+        "title" : "Men's Shoes",
+        "price" : 100,
+        "description" : "Fresh colours give you an updated AJ1 without losing its iconic silhouette and familiar feel. Made from premium leather, this all-time favourite comes decked out with comfortable",
+        "quantity" : 452,
+        "brand" :  "Air Jordan 1 Low SE",
+        "color" : "green",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/36a0198b-3c7b-4013-87fd-69ae4f35975f/air-jordan-1-low-se-shoes-xmgzfl.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/32308ff7-c6b0-4bc7-975a-f719958f74c3/air-jordan-1-low-se-shoes-xmgzfl.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/20ea6321-2411-45c7-9528-15d4ab65a142/air-jordan-1-low-se-shoes-xmgzfl.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d29f82f8-7d0c-4d61-b234-f11497b1fbf2/air-jordan-1-low-se-shoes-xmgzfl.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d891e31f-8459-4469-9a51-f619c97f13ba/air-jordan-1-low-se-shoes-xmgzfl.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "lifestyle"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "lifestyle"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "lifestyle"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "lifestyle"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "lifestyle"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "lifestyle"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "lifestyle"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "lifestyle"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "lifestyle"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "lifestyle"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "lifestyle"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "lifestyle"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "lifestyle"
+    }
+]

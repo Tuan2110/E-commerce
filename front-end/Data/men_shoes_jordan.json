@@ -1,0 +1,362 @@
+[
+    {
+        "title" : "Men's Shoes",
+        "price" : 200,
+        "description" : "Celebrate MJ's legacy with this shout-out to Chicago's 312 area code. With elements from three iconic Jordans (the AJ3, AJ1 and Air Alpha Force), it's a modern mash-up that reps the best.",
+        "quantity" : 500,
+        "brand" :  "Air Jordan Legacy 312 Low",
+        "color" : "black",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d872566e-2744-4194-910f-aaa28afc4fad/air-jordan-legacy-312-low-shoes-6Vd4Xl.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/df1b438b-f1f2-46ce-a130-ca1e16edf408/air-jordan-legacy-312-low-shoes-6Vd4Xl.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/99ef6b0f-5aa7-4a50-af01-bbc99cc8eba9/air-jordan-legacy-312-low-shoes-6Vd4Xl.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3741b723-0441-4a81-8b9c-2e40def8580b/air-jordan-legacy-312-low-shoes-6Vd4Xl.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b8fb7dce-02a9-400c-8c89-6139cb2962c3/air-jordan-legacy-312-low-shoes-6Vd4Xl.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "Men's Shoes",
+        "price" : 500,
+        "description" : "The Spizike takes elements of five classic Jordans, combines them and gives you one iconic sneaker. It's an homage to Spike Lee formally introducing Hollywood and hoops in a culture moment.",
+        "quantity" : 250,
+        "brand" :  "Jordan Spizike Low",
+        "color" : "white",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/a71f4891-71db-4b9d-9645-2112d0cbea61/jordan-spizike-low-shoes-pBZk7c.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/fdf181a0-d460-4035-817a-36c263ff83c1/jordan-spizike-low-shoes-pBZk7c.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/03664879-588a-425d-9db1-c4d10cf1baf0/jordan-spizike-low-shoes-pBZk7c.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/658c2340-c7e8-4045-8fb8-5c000d5e3512/jordan-spizike-low-shoes-pBZk7c.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b8518c9a-e395-4c1d-8f05-ec062b1c0eee/jordan-spizike-low-shoes-pBZk7c.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "Men's Shoes",
+        "price" : 300,
+        "description" : "Accelerate, bank, shoot, score—then repeat. Russell Westbrook's latest shoe is here to assist your speed game so you can stay unstoppable on the break.",
+        "quantity" : 100,
+        "brand" :  "Jordan One Take 5 PF",
+        "color" : "blue",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/da31c68b-490c-4218-82e1-f64ffe19426c/jordan-one-take-5-pf-shoes-jNx9SV.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/588349bf-df24-4da5-a44d-51c757253dd6/jordan-one-take-5-pf-shoes-jNx9SV.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d5e921bf-100b-4b13-aa70-b90b8110e40b/jordan-one-take-5-pf-shoes-jNx9SV.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/707d62c9-d5bc-49e6-9dc7-f10baf0a4518/jordan-one-take-5-pf-shoes-jNx9SV.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d5e57177-ea37-4735-99b2-0118b4b703c2/jordan-one-take-5-pf-shoes-jNx9SV.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "jordan"
+    }
+]

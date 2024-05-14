@@ -1,0 +1,362 @@
+[
+    {
+        "title" : "Men's Lightweight Fleece Trousers",
+        "price" : 50,
+        "description" : "Wardrobe staple? Yeah, you could call 'em that. Smooth on the outside with unbrushed loops on the inside, these lightweight French terry joggers are breathable enough to wear all year long. An elastic waistband with drawcord secures your fit, while subtle graphics nod to MJ's time on the baseball diamond.",
+        "quantity" : 421,
+        "brand" :  "Jordan Flight MVP",
+        "color" : "black",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8f3dfb6b-c180-4c4b-bbcb-dec29f40054c/jordan-flight-mvp-lightweight-fleece-trousers-wDdjTR.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/89186a5c-01ae-4cf1-918b-265f8c095fc1/jordan-flight-mvp-lightweight-fleece-trousers-wDdjTR.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b9354b90-30de-4614-8c22-e1fa786a1592/jordan-flight-mvp-lightweight-fleece-trousers-wDdjTR.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/86005b4e-e52c-43d9-9722-52959a13c386/jordan-flight-mvp-lightweight-fleece-trousers-wDdjTR.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/2094de7c-655c-4925-bc81-4ffb211cb72a/jordan-flight-mvp-lightweight-fleece-trousers-wDdjTR.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "pants"
+    },
+    {
+        "title" : "Men's 5-Pocket Slim Golf Trousers",
+        "price" : 100,
+        "description" : "From driving range to course to clubhouse, the Nike Tour trousers provide comfort and performance you can take anywhere. A slim fit with a smooth, stretchy feel helps give you the confidence to swing your best. They're equipped with 5 pockets for your tees, scorecard and glove to keep you prepared when you're next up on the box.",
+        "quantity" : 241,
+        "brand" :  "Nike Tour",
+        "color" : "black",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d05cb786-b55f-4bce-98c7-df7b0dd1cb8d/tour-5-pocket-slim-golf-trousers-fM68m7.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0a1e34c7-9eef-4009-9512-510c10e92ff3/tour-5-pocket-slim-golf-trousers-fM68m7.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/38e94ddc-f545-4eee-a78a-76531ab06e06/tour-5-pocket-slim-golf-trousers-fM68m7.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0a90c874-ebf7-449c-8501-684cdd089706/tour-5-pocket-slim-golf-trousers-fM68m7.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d9abc4ea-6813-4bfb-9731-4a8940d4d76f/tour-5-pocket-slim-golf-trousers-fM68m7.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "pants"
+    },
+    {
+        "title" : "Men's 5-Pocket Slim Golf Trousers",
+        "price" : 200,
+        "description" : "From driving range to course to clubhouse, the Nike Tour trousers provide comfort and performance you can take anywhere. A slim fit with a smooth, stretchy feel helps give you the confidence to swing your best. They're equipped with 5 pockets for your tees, scorecard and glove to keep you prepared when you're next up on the box.",
+        "quantity" : 500,
+        "brand" :  "Nike Tour",
+        "color" : "white",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e05df727-6854-4996-a474-583e1a49c7bf/tour-5-pocket-slim-golf-trousers-fM68m7.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/78c72f08-9ffb-45d6-a470-1e755833b628/tour-5-pocket-slim-golf-trousers-fM68m7.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5ad61c77-989f-4aae-8817-8e02ab58541a/tour-5-pocket-slim-golf-trousers-fM68m7.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a32734d4-5fd8-4ccf-95c9-244264a116fa/tour-5-pocket-slim-golf-trousers-fM68m7.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/74bccc0d-523b-4d9a-b856-ea0d19c34cd7/tour-5-pocket-slim-golf-trousers-fM68m7.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "pants"
+    },
+    {
+        "title" : "Men's Woven Trousers",
+        "price" : 62,
+        "description" : "School, work, whatever—these are trousers for everywhere you go. Centre seams and an extra cargo pocket give you a look with just enough distinction. And the woven material is lightweight and airy so you can wear 'em all day, no problem.",
+        "quantity" : 424,
+        "brand" :  "Jordan Essentials",
+        "color" : "white",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/47e8cfa7-176d-4d20-8edf-7202bd9d9982/jordan-essentials-woven-trousers-FQfwpp.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/06c42152-a827-44a7-a045-811a252d3be0/jordan-essentials-woven-trousers-FQfwpp.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/629aa229-c048-4894-8868-f2fb7faf4eab/jordan-essentials-woven-trousers-FQfwpp.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/bc471303-7d79-4a48-89b2-adb042e8c997/jordan-essentials-woven-trousers-FQfwpp.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/04bc4f31-efca-4626-b85e-30ba807d792e/jordan-essentials-woven-trousers-FQfwpp.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "pants"
+    },
+    {
+        "title" : "Men's Dri-FIT Golf Trousers",
+        "price" : 70,
+        "description" : "Your membership is accepted, welcome to the Nike Golf Club. This collection celebrates the modern game with gear designed to keep you comfortable outdoors and moving naturally. Lightweight, stretchy and sweat-wicking, they help keep you moving with ease on and off the course. Need to change? Their loose fit and zip hems make it easy to pull them off over your shoes.",
+        "quantity" : 99,
+        "brand" :  "Nike Golf Club",
+        "color" : "white",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0700d00a-2de7-40f8-a175-2f064dab82bb/golf-club-dri-fit-golf-trousers-fZ7RXl.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2c971398-c3bf-4388-a67e-f6168dc34073/golf-club-dri-fit-golf-trousers-fZ7RXl.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/065c97b2-a2ff-4974-a5c6-08651acfb046/golf-club-dri-fit-golf-trousers-fZ7RXl.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4d25151b-66f3-4d2d-a50c-436bd193cb9f/golf-club-dri-fit-golf-trousers-fZ7RXl.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/554dd0c1-7a59-4851-b3e7-80d38564d3de/golf-club-dri-fit-golf-trousers-fZ7RXl.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "pants"
+    },
+    {
+        "title" : "Men's Warm-Up Trousers",
+        "price" : 42,
+        "description" : "The game's near and you're about to put in work—but you gotta get ready first. Lightweight with a stretchy waistband, these relaxed trousers are a modern take on MJ's iconic warm-up look. Elastic cuffs let you show off your favourite kicks.",
+        "quantity" : 457,
+        "brand" :  "Jordan Sport Jam",
+        "color" : "blue",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/360b95d4-0ecd-4365-9589-2469e08b5fd6/jordan-sport-jam-warm-up-trousers-ZGBZrD.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/1c47de44-fe4f-41bb-b358-ba76658f9300/jordan-sport-jam-warm-up-trousers-ZGBZrD.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e9da63d9-aa44-49f0-8be0-9dbd8cb97bed/jordan-sport-jam-warm-up-trousers-ZGBZrD.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/bb318f5d-3f0d-45a9-8640-69db73d3a1f0/jordan-sport-jam-warm-up-trousers-ZGBZrD.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/55589feb-4055-4be0-8354-ac475d1aba5a/jordan-sport-jam-warm-up-trousers-ZGBZrD.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "pants"
+    },
+    {
+        "title" : "Men's Dri-FIT Open Hem Versatile Trousers",
+        "price" : 74,
+        "description" : "Designed for running, training and yoga, these trousers are all about versatility. From beginning a new workout routine to pushing your limits in the gym, these lightweight knit trousers keep everything simple and fresh. Fabric wicks away sweat and the relaxed fit provides the comfort you need to help reach your goals.",
+        "quantity" : 4243,
+        "brand" :  "Nike Totality",
+        "color" : "brown",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7114c714-e0ec-4112-9546-29313612248d/totality-dri-fit-open-hem-versatile-trousers-94PBQH.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/71f7eee5-854f-42f2-851e-0928cebfcdea/totality-dri-fit-open-hem-versatile-trousers-94PBQH.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a0f25f59-7766-4e65-a806-8a5c2f78a402/totality-dri-fit-open-hem-versatile-trousers-94PBQH.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9d06bb77-2846-40de-a4e5-4f5e81818932/totality-dri-fit-open-hem-versatile-trousers-94PBQH.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/25f8d60a-0a5e-41ec-a2ea-19cbb98c47bd/totality-dri-fit-open-hem-versatile-trousers-94PBQH.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "pants"
+    },
+    {
+        "title" : "Men's Knit Running Trousers",
+        "price" : 111,
+        "description" : "Step out in our lightweight, Phenom Elite Trousers. We know you're out there giving your all, so we keep you feeling comfortable with buttery smooth, sweat-wicking fabric. Plus, there's pockets for your phone, keys or anything else you need.",
+        "quantity" : 77,
+        "brand" :  "Nike Dri-FIT Phenom Elite",
+        "color" : "black",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/cc8a307f-2bca-43d0-aeaf-d2564f16f9a5/dri-fit-phenom-elite-knit-running-trousers-xjMTVL.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/852f70f8-e49e-4bf9-b690-f9725d3c1a85/dri-fit-phenom-elite-knit-running-trousers-xjMTVL.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/82f6e61f-04ec-43fa-96da-1b899bebd155/dri-fit-phenom-elite-knit-running-trousers-xjMTVL.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/52a49e88-caa4-4d37-8aa8-96294657705b/dri-fit-phenom-elite-knit-running-trousers-xjMTVL.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/93f4a8c3-71d8-41c7-bfd1-fba150ef4ee3/dri-fit-phenom-elite-knit-running-trousers-xjMTVL.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "pants"
+    },
+    {
+        "title" : "Men's Tapered Training Trousers",
+        "price" : 99,
+        "description" : "The Nike Dri-FIT Trousers are made from 100% sustainable materials, using a blend of both recycled polyester and organic cotton fibres. The blend is at least 10% recycled fibres or at least 10% organic cotton fibres.",
+        "quantity" : 975,
+        "brand" :  "Nike Dri-FIT",
+        "color" : "black",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0e716a39-1893-4ce1-b88a-58d93cb7f2c8/dri-fit-tapered-training-trousers-0ZBRN9.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/abbebbf2-fd56-4dce-afd4-6b07f16eee27/dri-fit-tapered-training-trousers-0ZBRN9.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b94d5320-868b-40f4-90bd-6f1958be494d/dri-fit-tapered-training-trousers-0ZBRN9.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/dd29ce22-b792-4be8-a2a3-ae336098fbab/dri-fit-tapered-training-trousers-0ZBRN9.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5a15406f-924e-464f-80a5-b38c6ebbfb1b/dri-fit-tapered-training-trousers-0ZBRN9.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "pants"
+    },
+    {
+        "title" : "Men's Fleece Trousers",
+        "price" : 199,
+        "description" : "Grab some groceries, chill with the fam, sneak in a quick workout: get a pair of joggers that can do it all. Made from fleece that's smooth on the outside and plush on the inside, this pair features woven tape detailing as an homage to that other sport MJ played.",
+        "quantity" : 453,
+        "brand" :  "Jordan Flight MVP",
+        "color" : "white",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/907df6ca-0f16-41b4-ac33-86c3c61776bd/jordan-flight-mvp-fleece-trousers-Zn4jvk.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/46a95fe6-88bb-47cf-884c-52883160f69a/jordan-flight-mvp-fleece-trousers-Zn4jvk.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8fa4fce8-a8b3-4db8-b53c-d87cac41d432/jordan-flight-mvp-fleece-trousers-Zn4jvk.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4d189d5c-06a9-486c-b327-e26e3ec8a21d/jordan-flight-mvp-fleece-trousers-Zn4jvk.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/bc3cbf35-c699-48f4-affa-352c643470cc/jordan-flight-mvp-fleece-trousers-Zn4jvk.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "pants"
+    },
+    {
+        "title" : "Men's Dri-FIT Open-Hem Versatile Trousers",
+        "price" : 99,
+        "description" : "Built for running, training and yoga, the Form collection helps you through your favourite exercises with lightweight fabric and essential features. These relaxed-fit trousers help keep the sweat away throughout your workout. Plus, the handy pockets let you take along a key, card or phone.",
+        "quantity" : 342,
+        "brand" :  "Nike Form",
+        "color" : "brown",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/04244204-4c2b-4f0d-bbce-e74317a26d81/form-dri-fit-open-hem-versatile-trousers-j4WMRS.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9897e2d1-adb9-4f14-b4e1-5fdd88098601/form-dri-fit-open-hem-versatile-trousers-j4WMRS.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6b169e7a-26cb-4f10-97d2-ae789db4e0b5/form-dri-fit-open-hem-versatile-trousers-j4WMRS.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b98873b8-f8a7-4a68-9874-928398fe9a38/form-dri-fit-open-hem-versatile-trousers-j4WMRS.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3d88cb4e-b9cc-4d6c-b254-f62f20a5e18e/form-dri-fit-open-hem-versatile-trousers-j4WMRS.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "pants"
+    },
+    {
+        "title" : "Men's Cargo Skate Trousers",
+        "price" : 89,
+        "description" : "Made from durable Ripstop fabric in a roomy, skate-ready fit, these Nike SB trousers are built to last. The classic cargo design doesn't skimp on storage. With 6 pockets, you'll have plenty of places to keep your essentials secure on and off your board.",
+        "quantity" : 6452,
+        "brand" :  "Nike SB Kearny",
+        "color" : "black",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/216ed8f9-c7ad-43c8-9217-320f26bfeddc/sb-kearny-cargo-skate-trousers-wHr90m.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/dd2269b8-4ea0-412d-8505-2c439e51d157/sb-kearny-cargo-skate-trousers-wHr90m.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ab221949-9472-4eda-bb03-d7d6f05a89a0/sb-kearny-cargo-skate-trousers-wHr90m.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e882390d-52fa-4b59-871d-04c77f36a435/sb-kearny-cargo-skate-trousers-wHr90m.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9b61bba8-c2b9-4190-8dd1-a4c15681f4c4/sb-kearny-cargo-skate-trousers-wHr90m.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "pants"
+    },
+    {
+        "title" : "Men's Woven Trousers",
+        "price" : 79,
+        "description" : "Go big on style, then go bigger with the Swoosh. These crisp woven trousers feature water-repellent fabric that helps shield the moisture, while the relaxed-fitting, straight-leg cut is designed to stack at your sneakers. Hidden bungee adjusters let you adjust around your ankles when you want to let those retro Nike sneakers pop.",
+        "quantity" : 423,
+        "brand" :  "Nike Swoosh",
+        "color" : "black",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a9c746f3-d570-4e00-94b0-ce3202d39807/swoosh-woven-trousers-DXfL7X.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0be5965d-0a15-4035-b04d-da1ab2cea32c/swoosh-woven-trousers-DXfL7X.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/184e29e9-4d52-44c4-85db-54715b1ad723/swoosh-woven-trousers-DXfL7X.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/eb66cbf6-d54c-4a95-97f4-0a5a523331b9/swoosh-woven-trousers-DXfL7X.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bdef4270-f8a9-4993-a90f-37dfb0cb0d42/swoosh-woven-trousers-DXfL7X.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "pants"
+    },
+    {
+        "title" : "Men's Woven Cargo Trousers",
+        "price" : 19,
+        "description" : "When your daily outings call for preparation, these well-equipped Nike Club cargo trousers give you more pockets to securely stow the extras. We made these from a soft-yet-durable cotton Ripstop fabric in a roomy fit for casual, care-free comfort.",
+        "quantity" : 757,
+        "brand" :  "Nike Club",
+        "color" : "black",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/baa23b12-a329-4947-9251-bac23f15e25a/club-woven-cargo-trousers-hdHxsN.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1d678ea7-7592-4c1c-920c-eda9e5918de7/club-woven-cargo-trousers-hdHxsN.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f462c38e-d1b7-4df9-bdf9-df209406a004/club-woven-cargo-trousers-hdHxsN.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e83c2243-d8b3-4fd8-be56-88b50d923f5d/club-woven-cargo-trousers-hdHxsN.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/896a7361-16fe-4f68-8857-55ba04e7f67e/club-woven-cargo-trousers-hdHxsN.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "pants"
+    },
+    {
+        "title" : "Men's Cargo Trousers",
+        "price" : 89,
+        "description" : "When your daily adventures call for lightweight, breathable comfort, pull on a pair of these cotton Ripstop trousers from our Nike Club Collection. The cargo pockets offer plenty of storage, while the relaxed straight-leg fit gives you a casual feel through the seat and thighs for easy, everyday wear.",
+        "quantity" : 754,
+        "brand" :  "Nike Club",
+        "color" : "brown",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/01e6a448-172c-439b-8962-7ef7f6ba4016/club-cargo-trousers-VCp8ZV.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c04c78f8-9fa9-41db-8fba-95d27e08ba3c/club-cargo-trousers-VCp8ZV.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/64685598-5455-4793-92ee-16531841897c/club-cargo-trousers-VCp8ZV.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/832eb47a-c356-490c-9209-cd5023520c1f/club-cargo-trousers-VCp8ZV.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a5090921-1b5f-4c03-9af3-122b1e84d028/club-cargo-trousers-VCp8ZV.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "pants"
+    }
+]

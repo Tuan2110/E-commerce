@@ -1,0 +1,362 @@
+[
+    {
+        "title" : "Men's Mesh Shorts",
+        "price" : 50,
+        "description" : "Hitting home runs, slam-dunking baskets or just chilling with friends, these lightweight shorts are made for it all. The breathable mesh helps keep things airy and comfortable",
+        "quantity" : 645,
+        "brand" :  "Jordan Flight MVP",
+        "color" : "black",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/7076f76b-1b60-4e1a-921a-520d5719b234/jordan-flight-mvp-mesh-shorts-1xwkBQ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e2ec2a6e-218a-46d7-9bbd-5c2eec4610fd/jordan-flight-mvp-mesh-shorts-1xwkBQ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/22da1dd6-5de9-4b54-af5b-e0bc0be2602a/jordan-flight-mvp-mesh-shorts-1xwkBQ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/92d0ce65-ad73-418a-8b8b-988f539de0f5/jordan-flight-mvp-mesh-shorts-1xwkBQ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/95ad3cba-8f74-48d7-a88f-357c8d4bc162/jordan-flight-mvp-mesh-shorts-1xwkBQ.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "shorts"
+    },
+    {
+        "title" : "Men's Chino Shorts",
+        "price" : 74,
+        "description" : "Keep it classic in a pair of these chino shorts from our Nike Club Collection. The straight-leg, relaxed fit is designed to feel comfy around the seat and thighs.",
+        "quantity" : 457,
+        "brand" :  "Nike Club",
+        "color" : "brown",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/01d35d50-b7e1-4d06-91f5-16c0bf714dae/club-chino-shorts-fzfr3b.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/82f713bb-2b1d-41f6-99b9-e51eea203929/club-chino-shorts-fzfr3b.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c0225f45-0ceb-4473-a4cd-5cdb9b38a126/club-chino-shorts-fzfr3b.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8c9bc454-dc99-4103-b980-8f6377fd2ec3/club-chino-shorts-fzfr3b.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/95c5b12f-3279-4a40-98c9-df31675b635a/club-chino-shorts-fzfr3b.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "shorts"
+    },
+    {
+        "title" : "Men's Golf Diamond Shorts",
+        "price" : 42,
+        "description" : "From tee to green, keep it comfortable and fly. These lightweight, stretch-woven shorts are sweat-wicking to help you stay fresh for a full 18 holes.",
+        "quantity" : 457,
+        "brand" :  "Jordan Dri-FIT Sport",
+        "color" : "blue",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/deeb2bb5-402d-4119-925f-4b1845103d98/jordan-dri-fit-sport-golf-diamond-shorts-6hMscL.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/2764246d-ed71-4ae0-bda1-c2e3d2d38dc9/jordan-dri-fit-sport-golf-diamond-shorts-6hMscL.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/45ccd8c6-fe76-4775-a97c-bb5d04ff0ce5/jordan-dri-fit-sport-golf-diamond-shorts-6hMscL.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4812506f-6d3c-4742-a370-35963a825012/jordan-dri-fit-sport-golf-diamond-shorts-6hMscL.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/548856be-1cb8-4867-8a8c-02997d3ede8f/jordan-dri-fit-sport-golf-diamond-shorts-6hMscL.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "shorts"
+    },
+    {
+        "title" : "Men's Golf Diamond Shorts",
+        "price" : 100,
+        "description" : "From tee to green, keep it comfortable and fly. These lightweight, stretch-woven shorts are sweat-wicking to help you stay fresh for a full 18 holes.",
+        "quantity" : 245,
+        "brand" :  "Jordan Dri-FIT Sport",
+        "color" : "black",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/49391534-719e-4c4b-9743-b04b8f90d40f/jordan-dri-fit-sport-golf-diamond-shorts-6hMscL.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d81cf29c-2ac4-4cd7-8528-08c75d3817be/jordan-dri-fit-sport-golf-diamond-shorts-6hMscL.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/1b92090c-f511-49fe-ae94-ddbc5a8cb4bb/jordan-dri-fit-sport-golf-diamond-shorts-6hMscL.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e5c86f60-09a0-4c6c-b43e-85114435b644/jordan-dri-fit-sport-golf-diamond-shorts-6hMscL.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/fa067fdc-ed9e-4d23-b247-c111567f2392/jordan-dri-fit-sport-golf-diamond-shorts-6hMscL.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "shorts"
+    },
+    {
+        "title" : "Men's 13cm (approx.) Poolside Shorts",
+        "price" : 50,
+        "description" : "On land or in the water, these lightweight shorts are a summertime staple. A smooth outer layer pairs with a comfortable mesh liner and an elastic waistband with drawcord for a secure fit.",
+        "quantity" : 647,
+        "brand" :  "Jordan Essentials",
+        "color" : "black",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f9bad322-61cc-4e55-8158-b1838fd8c0d9/jordan-essentials-13cm-poolside-shorts-Rf08wZ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d57df15f-42af-4ea1-af51-650f32b63e19/jordan-essentials-13cm-poolside-shorts-Rf08wZ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/2ec3a699-dadd-4a87-9853-0fc9141f723d/jordan-essentials-13cm-poolside-shorts-Rf08wZ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/fa50c186-cc6e-4000-b73b-847b31189a4e/jordan-essentials-13cm-poolside-shorts-Rf08wZ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/250d236c-7a8e-428e-b22f-92c4bea66e02/jordan-essentials-13cm-poolside-shorts-Rf08wZ.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "shorts"
+    },
+    {
+        "title" : "Men's Diamond Shorts",
+        "price" : 80,
+        "description" : "As classic as a picnic, our Diamond shorts serve up a heaping helping of style. Made from a durable woven twill for a structured look and soft hand feel, these easy-fitting shorts feature an all-over vintage wash.",
+        "quantity" : 786,
+        "brand" :  "Jordan Essentials",
+        "color" : "gray",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4710edf8-42c4-4f51-8a83-58c5718f8ea1/jordan-essentials-diamond-shorts-v3QnSl.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8700dfb2-0b58-46c3-92bf-647138be28e3/jordan-essentials-diamond-shorts-v3QnSl.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/1548166d-0022-46df-aeb7-1cbf78976d62/jordan-essentials-diamond-shorts-v3QnSl.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/69b33008-7cc3-4fea-8307-d3c4893187db/jordan-essentials-diamond-shorts-v3QnSl.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/5532e82e-18a2-4349-912c-5e45147f2349/jordan-essentials-diamond-shorts-v3QnSl.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "shorts"
+    },
+    {
+        "title" : "Men's Woven Shorts",
+        "price" : 42,
+        "description" : "Distinct centre seams make these casual shorts a whole look. They're made from woven material that's lightweight and airy so you can wear 'em all day, no problem.",
+        "quantity" : 6354,
+        "brand" :  "Jordan Essentials",
+        "color" : "brown",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/34c02d68-1f71-49c7-b81b-5a8ef40fc1c1/jordan-essentials-woven-shorts-QV9xmh.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/02d57298-5a8d-4ebe-bfb4-33de0d924894/jordan-essentials-woven-shorts-QV9xmh.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/678b19be-3afe-444c-8bd5-5a6cc119baec/jordan-essentials-woven-shorts-QV9xmh.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d9600240-18a2-46a5-a955-e8829dd82db3/jordan-essentials-woven-shorts-QV9xmh.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/88f862ec-b06f-4776-b87e-97fe8877b063/jordan-essentials-woven-shorts-QV9xmh.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "shorts"
+    },
+    {
+        "title" : "Men's Woven Shorts",
+        "price" : 74,
+        "description" : "Distinct centre seams make these casual shorts a whole look. They're made from woven material that's lightweight and airy so you can wear 'em all day, no problem.",
+        "quantity" : 645,
+        "brand" :  "Jordan Essentials",
+        "color" : "blue",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/c8ed55b0-039c-4156-a805-f04e3b1f3a9c/jordan-essentials-woven-shorts-QV9xmh.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/9f8de382-f55d-403d-8966-f37e064df161/jordan-essentials-woven-shorts-QV9xmh.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/81152c9f-4caa-465d-92de-2ee8eed6c277/jordan-essentials-woven-shorts-QV9xmh.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/5a373c98-a5f6-4e0a-b62d-75cf4384f1b5/jordan-essentials-woven-shorts-QV9xmh.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/fa2158a8-b1d0-494c-acc5-8b0ef2bc7b01/jordan-essentials-woven-shorts-QV9xmh.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "shorts"
+    },
+    {
+        "title" : "Men's 13cm (approx.) Brief-Lined Running Shorts",
+        "price" : 100,
+        "description" : "Flex your speed, embrace the momentum. The Nike Dri-FIT Stride Shorts have a lightweight feel—made from at least 75% recycled polyester fibres—designed for unrestricted movement. They're smooth to the touch, with extra breathability on the upper back.",
+        "quantity" : 6745,
+        "brand" :  "Nike Dri-FIT Stride",
+        "color" : "green",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e9ffd30d-6ed2-4b63-a6b6-4a572bc3b02a/dri-fit-stride-13cm-brief-lined-running-shorts-6zTzxr.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8a7f653d-4d75-4ede-b2af-441558efcfd5/dri-fit-stride-13cm-brief-lined-running-shorts-6zTzxr.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6c39349a-8c29-456b-be22-46360a02a80c/dri-fit-stride-13cm-brief-lined-running-shorts-6zTzxr.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a2c089f5-21bc-4b5f-a935-6d01a3e591a1/dri-fit-stride-13cm-brief-lined-running-shorts-6zTzxr.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4031cfd3-e155-4648-9db3-2e79173256c7/dri-fit-stride-13cm-brief-lined-running-shorts-6zTzxr.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "shorts"
+    },
+    {
+        "title" : "Men's 13cm (approx.) Brief-Lined Running Shorts",
+        "price" : 80,
+        "description" : "Flex your speed, embrace the momentum. The Nike Dri-FIT Stride Shorts have a lightweight feel—made from at least 75% recycled polyester fibres—designed for unrestricted movement. They're smooth to the touch, with extra breathability on the upper back.",
+        "quantity" : 453,
+        "brand" :  "Nike Dri-FIT Stride",
+        "color" : "black",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b73a970c-6aa4-4a42-ba9e-13c8979797b6/dri-fit-stride-13cm-brief-lined-running-shorts-6zTzxr.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ad5e2460-083b-4491-8ed1-2de260a55aee/dri-fit-stride-13cm-brief-lined-running-shorts-6zTzxr.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b2d65c1d-7343-40eb-8aa3-8f00a1600c10/dri-fit-stride-13cm-brief-lined-running-shorts-6zTzxr.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c6d5915e-b7e1-4d9c-bae4-2a7d579f3d83/dri-fit-stride-13cm-brief-lined-running-shorts-6zTzxr.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3179e271-8a45-4906-99d5-44d1a55f507b/dri-fit-stride-13cm-brief-lined-running-shorts-6zTzxr.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "shorts"
+    },
+    {
+        "title" : "Men's Woven Flow Shorts",
+        "price" : 70,
+        "description" : "Sporty and versatile, these woven shorts are made for easy-going daily comfort. The fit is designed to fall above the knee and feel relaxed through the seat and thighs to keep them from feeling restrictive, especially in warmer weather.",
+        "quantity" :344 ,
+        "brand" :  "Nike Club",
+        "color" : "pink",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b4744e43-3861-48f8-afb3-d53a089464d6/club-woven-flow-shorts-LpZd3w.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/21895563-6349-431d-9883-5069fccfb669/club-woven-flow-shorts-LpZd3w.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/09ea85cc-5ecc-45b7-a637-923607b47ed2/club-woven-flow-shorts-LpZd3w.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/03087d74-bd48-4af5-b1db-0171b681727b/club-woven-flow-shorts-LpZd3w.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d91e7fc8-6df7-429a-831f-a9153afed130/club-woven-flow-shorts-LpZd3w.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "shorts"
+    },
+    {
+        "title" : "Men's Woven Flow Shorts",
+        "price" : 87,
+        "description" : "Sporty and versatile, these woven shorts are made for easy-going daily comfort. The fit is designed to fall above the knee and feel relaxed through the seat and thighs to keep them from feeling restrictive, especially in warmer weather.",
+        "quantity" : 214,
+        "brand" :  "Nike Club",
+        "color" : "blue",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fd8b30b2-4c46-41db-9dca-2e47ede97285/club-woven-flow-shorts-LpZd3w.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2e46a0a9-5269-432b-b852-22cf34b819dd/club-woven-flow-shorts-LpZd3w.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/36001712-1253-4903-aaa2-936cbdbf065f/club-woven-flow-shorts-LpZd3w.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b6d20638-81af-40e7-a34e-29d8fd201a69/club-woven-flow-shorts-LpZd3w.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ed99eb10-d10a-48e2-a043-3dbdf3d0a8c9/club-woven-flow-shorts-LpZd3w.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "shorts"
+    },
+    {
+        "title" : "Diamond Shorts",
+        "price" : 155,
+        "description" : "You ready to ball? Made from light, breathable mesh with sweat-wicking technology, these shorts set you up with versatile wearability for your whole day, on or off the court.",
+        "quantity" : 645,
+        "brand" :  "Jordan Dri-FIT Sport",
+        "color" : "red",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/bc876e65-a5b1-4d76-aef5-269a8047f7ea/jordan-dri-fit-sport-diamond-shorts-TcL0vg.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f208f384-8734-47db-ad73-3133df89c4c0/jordan-dri-fit-sport-diamond-shorts-TcL0vg.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/6a199463-73d7-47f0-bd31-8e1d4dc84c1e/jordan-dri-fit-sport-diamond-shorts-TcL0vg.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/96e42479-a4e8-444f-bc86-be0ba5ff5d3c/jordan-dri-fit-sport-diamond-shorts-TcL0vg.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d5689b06-e3ed-4fa9-9589-a94300e02564/jordan-dri-fit-sport-diamond-shorts-TcL0vg.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "shorts"
+    },
+    {
+        "title" : "Men's Woven Shorts",
+        "price" : 70,
+        "description" : "Start off strong with shorts that are ready to ball. This lightweight pair is made from 4-way-stretch woven material with sweat-wicking technology. They're designed to fall mid-thigh for a non-restrictive fit.",
+        "quantity" : 642,
+        "brand" :  "Jordan Dri-FIT Sport",
+        "color" : "brown",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f67d5a06-4681-4517-8487-4cfe394915e4/jordan-dri-fit-sport-woven-shorts-SS5zTZ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/cc04ae75-5fbb-4c88-8b5d-a818b547bddf/jordan-dri-fit-sport-woven-shorts-SS5zTZ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/0b9f1047-5bd6-4be4-8fb1-69808b1b7cfe/jordan-dri-fit-sport-woven-shorts-SS5zTZ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/598a8814-de4a-4ceb-9579-b2b5f2913419/jordan-dri-fit-sport-woven-shorts-SS5zTZ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/671ff6e4-892d-4f4e-8797-93e3e89470f2/jordan-dri-fit-sport-woven-shorts-SS5zTZ.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "shorts"
+    },
+    {
+        "title" : "Men's Dri-FIT Standard Issue Reversible Basketball Shorts",
+        "price" : 722,
+        "description" : "Kevin Durant is a master of his craft on and off the court. Our KD signature apparel collection celebrates the next generation of do-it-all athletes with pieces you can wear anywhere.",
+        "quantity" : 312,
+        "brand" :  "KD",
+        "color" : "black",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/df2c0bb8-cbf6-453e-a891-694b4570e9d0/kd-dri-fit-standard-issue-reversible-basketball-shorts-57Zn4B.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8bbd299d-8a3d-47e9-a4f6-235302dabfdb/kd-dri-fit-standard-issue-reversible-basketball-shorts-57Zn4B.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6d89e889-cf13-4895-8a11-d568349dd8c0/kd-dri-fit-standard-issue-reversible-basketball-shorts-57Zn4B.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5273c5f2-626b-45c7-9016-7705fd83e7f5/kd-dri-fit-standard-issue-reversible-basketball-shorts-57Zn4B.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/758d133d-5ec8-4b63-8f77-557598072681/kd-dri-fit-standard-issue-reversible-basketball-shorts-57Zn4B.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "shorts"
+    }
+]

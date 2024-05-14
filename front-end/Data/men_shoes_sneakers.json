@@ -1,0 +1,362 @@
+[
+    {
+        "title" : "Men's Shoes",
+        "price" : 100,
+        "description" : "Here are some straightforward, good-looking AJ1s. Were you expecting anything less? Crafted from crisp leather, they feature comfortable Nike Air cushioning in the heel. ",
+        "quantity" : 200,
+        "brand" :  "Air Jordan 1 Low SE",
+        "color" : "brown",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e5b1fb1f-c9f1-420e-8a9b-efc4dbadd44b/air-jordan-1-low-se-shoes-L9LvW5.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/c12ed85c-eca8-43fb-a90b-9d7c8abcb600/air-jordan-1-low-se-shoes-L9LvW5.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d2cce137-d37f-4d1b-b934-1a3f78704dd1/air-jordan-1-low-se-shoes-L9LvW5.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d39b19ed-48cc-41c4-b835-5d4da3796765/air-jordan-1-low-se-shoes-L9LvW5.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/91c36244-1e0f-4d97-ab32-8bec3e627366/air-jordan-1-low-se-shoes-L9LvW5.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "sneakers"
+    },
+    {
+        "title" : "Skate Shoes",
+        "price" : 25,
+        "description" : "Coming in hot after a year of R&R (research and redesign), the Janoski continues the journey of Stefan's signature skateboarding line.",
+        "quantity" : 500,
+        "brand" :  "Nike SB Zoom Janoski OG+",
+        "color" : "blue",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c7bb7b8a-1a2a-4a84-b08e-dfa2b91fd961/sb-zoom-janoski-og-skate-shoes-cGdJGP.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/33ff2495-bac8-425e-abbe-3089201b197f/sb-zoom-janoski-og-skate-shoes-cGdJGP.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/fd52e0a4-ee13-4e24-9251-88d6fdabe11c/sb-zoom-janoski-og-skate-shoes-cGdJGP.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c98f9b6c-f38a-4b6c-84ff-42adc8e32c2c/sb-zoom-janoski-og-skate-shoes-cGdJGP.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/add21819-9ea3-4bfe-a61e-e64048bdbfa3/sb-zoom-janoski-og-skate-shoes-cGdJGP.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "sneakers"
+    },
+    {
+        "title" : "Men's Shoes",
+        "price" : 300,
+        "description" : "Comfortable, durable and timeless—it's number 1 for a reason. The classic '80s construction pairs with resort-inspired details for style that tracks whether you're on court or on the go.",
+        "quantity" : 250,
+        "brand" :  "Nike Air Force 1 '07 LV8",
+        "color" : "white",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e95d9abf-64d7-4177-b56d-627064c088c5/air-force-1-07-lv8-shoes-2gP9Bc.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/656578ae-ae58-48c5-b279-637cbacac04c/air-force-1-07-lv8-shoes-2gP9Bc.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ed9043d4-9667-495f-8434-820bb83223e5/air-force-1-07-lv8-shoes-2gP9Bc.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c598511f-fb37-40e3-9b0b-0b1388aac33f/air-force-1-07-lv8-shoes-2gP9Bc.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b59e8670-1a3e-48df-ab3f-b37134ae09ac/air-force-1-07-lv8-shoes-2gP9Bc.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "sneakers"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "sneakers"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "sneakers"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "sneakers"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "sneakers"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "sneakers"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "sneakers"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "sneakers"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "sneakers"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "sneakers"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "sneakers"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "sneakers"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "shoes",
+        "thirdLevelCategory": "sneakers"
+    }
+]

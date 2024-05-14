@@ -1,0 +1,478 @@
+[
+    {
+        "title" : "Men's T-Shirt",
+        "price" : 30,
+        "description" : "Shout out Jordan's time on the baseball diamond in this classic cotton tee. Made from midweight cotton that's soft and structured, its big and bold graphic puts a new spin on the Jumpman.",
+        "quantity" : 80,
+        "brand" :  "Jordan Flight MVP",
+        "color" : "white",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/64859c92-ca2c-4b94-ab51-e7325a9f74d5/jordan-flight-mvp-t-shirt-MqkK9P.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3c4968bc-285d-4221-b0bf-1656ff2d3bb0/jordan-flight-mvp-t-shirt-MqkK9P.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/02733b94-b138-46f0-8e9a-c626b465c668/jordan-flight-mvp-t-shirt-MqkK9P.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/58be7f7e-d978-4135-8e98-c700c7dfbb68/jordan-flight-mvp-t-shirt-MqkK9P.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3cb14159-33db-46d4-9fc9-ec9e7fcb371e/jordan-flight-mvp-t-shirt-MqkK9P.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "t-shirts"
+    },
+    {
+        "title" : "Men's T-Shirt",
+        "price" : 47,
+        "description" : "Soft cotton, tonal graphics and an all-over wash? Don't be afraid to snag this essential in multiple colours.",
+        "quantity" : 100,
+        "brand" :  "Jordan Flight Essentials",
+        "color" : "white",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/7be5d628-96a9-4a7d-8d50-da05bf4bba43/jordan-flight-essentials-t-shirt-dlsvff.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/53abd2fb-6179-48e3-9924-b00633beb622/jordan-flight-essentials-t-shirt-dlsvff.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/6f0cfe42-c9d3-4b7c-90b3-a58682f48c77/jordan-flight-essentials-t-shirt-dlsvff.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/51172c51-a56c-4e23-be9e-020495ae5e10/jordan-flight-essentials-t-shirt-dlsvff.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e72042fd-7fd5-412a-a67b-c25c73269d05/jordan-flight-essentials-t-shirt-dlsvff.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "t-shirts"
+    },
+    {
+        "title" : "Men's T-Shirt",
+        "price" : 80,
+        "description" : "Soft cotton, tonal graphics and an all-over wash? Don't be afraid to snag this essential in multiple colours.",
+        "quantity" : 400,
+        "brand" :  "Jordan Flight Essentials",
+        "color" : "black",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/44c78bcf-3afa-4d09-b45a-7c02e3ae9d8d/jordan-flight-essentials-t-shirt-dlsvff.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/1dd7c134-c66e-425b-b9e1-360cbc82e9f8/jordan-flight-essentials-t-shirt-dlsvff.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/dc06550e-9d68-4cf5-a38e-c917b46be004/jordan-flight-essentials-t-shirt-dlsvff.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8a4e458c-1399-481d-8bf3-7f52c1eb56ed/jordan-flight-essentials-t-shirt-dlsvff.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/bcda33d0-d6db-4f13-9f77-7e94e481ee22/jordan-flight-essentials-t-shirt-dlsvff.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "t-shirts"
+    },
+    {
+        "title" : "Men's Dri-FIT Sleeveless T-Shirt",
+        "price" : 10,
+        "description" : "Midweight cotton keeps things soft, while a sleeveless design and our sweat-wicking technology help make this tee breathable for the ultimate hot-weather flex.",
+        "quantity" : 300,
+        "brand" :  "Jordan Sport",
+        "color" : "black",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/00de89fa-28d6-421d-8564-54577a83ce62/jordan-sport-dri-fit-sleeveless-t-shirt-WfjGfM.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f22e2fa2-f07b-4a46-93fe-087d5c4cc1db/jordan-sport-dri-fit-sleeveless-t-shirt-WfjGfM.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/124d3a81-3f90-4189-b03d-f6b7f290e202/jordan-sport-dri-fit-sleeveless-t-shirt-WfjGfM.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ab0452e7-6dcb-4ccb-8b16-69dba7660d16/jordan-sport-dri-fit-sleeveless-t-shirt-WfjGfM.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/2c9fb2ba-917b-4958-9988-aa09ddfa18a1/jordan-sport-dri-fit-sleeveless-t-shirt-WfjGfM.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "t-shirts"
+    },
+    {
+        "title" : "Men's Short-Sleeve Knit Top",
+        "price" : 57,
+        "description" : "Crafted from premium, heavyweight knit fabric, this short-sleeve top from our Nike Life collection puts an elevated spin on an everyday essential. The thick, dual-layered knit ribbing on the collar adds texture and durability.",
+        "quantity" : 453,
+        "brand" :  "Nike Life",
+        "color" : "black",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/16c20c1b-57fc-49c5-9537-5522359c1caa/life-short-sleeve-knit-top-J6jJTz.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b6e0c5bc-4d4d-4258-98a7-e99aa1a7bc27/life-short-sleeve-knit-top-J6jJTz.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1d526702-cd4f-4280-bd6b-ff6acc32fc9b/life-short-sleeve-knit-top-J6jJTz.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/68eb7ab6-51aa-4e49-a880-a2e09c44968d/life-short-sleeve-knit-top-J6jJTz.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9a56ae14-a4fe-4325-92d2-3672c21cb65c/life-short-sleeve-knit-top-J6jJTz.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "t-shirts"
+    },
+    {
+        "title" : "Men's Short-Sleeve Knit Top",
+        "price" : 75,
+        "description" : "Crafted from premium, heavyweight knit fabric, this short-sleeve top from our Nike Life collection puts an elevated spin on an everyday essential. The thick, dual-layered knit ribbing on the collar adds texture and durability.",
+        "quantity" : 375,
+        "brand" :  "Nike Life",
+        "color" : "white",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a5efe87a-0f39-4723-a400-15a066d64fb9/life-short-sleeve-knit-top-J6jJTz.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f1513891-e605-4cb8-9d93-19a984aecd08/life-short-sleeve-knit-top-J6jJTz.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6bef064f-11ce-42e1-9f39-0fdd5c8ea404/life-short-sleeve-knit-top-J6jJTz.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/45d07262-4f57-4172-97b0-e4860fc8dde2/life-short-sleeve-knit-top-J6jJTz.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c086d242-30ac-4f71-a35e-377d57c73539/life-short-sleeve-knit-top-J6jJTz.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "t-shirts"
+    },
+    {
+        "title" : "Men's Short-Sleeve Knit Top",
+        "price" : 77,
+        "description" : "Crafted from premium, heavyweight knit fabric, this short-sleeve top from our Nike Life collection puts an elevated spin on an everyday essential. The thick, dual-layered knit ribbing on the collar adds texture and durability.",
+        "quantity" : 453,
+        "brand" :  "Nike Life",
+        "color" : "brown",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/647c957b-bcdb-4c6b-ae58-0f7836d92788/life-short-sleeve-knit-top-J6jJTz.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/08d2f32d-463b-4639-afd8-39f01be2c741/life-short-sleeve-knit-top-J6jJTz.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6fdc3526-588d-4b94-be1a-b6cad95a9f98/life-short-sleeve-knit-top-J6jJTz.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/81c8b742-bfd9-4775-8345-ecdbccea165e/life-short-sleeve-knit-top-J6jJTz.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/96d08f35-334d-4800-952e-878c5ced7ad5/life-short-sleeve-knit-top-J6jJTz.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "t-shirts"
+    },
+    {
+        "title" : "Men's T-Shirt",
+        "price" : 34,
+        "description" : "You'll want to keep this loose-fitting tee within easy reach. Retro branding and sport-inspired details are paired with neutral colours to make it an easy-styling essential.",
+        "quantity" : 575,
+        "brand" :  "Nike Air",
+        "color" : "gray",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6ec20dd2-1b99-4dc1-b82e-d7c9096064b6/air-t-shirt-FnKHsc.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/71e7c06d-2c0d-4c8a-9acd-322b251daffc/air-t-shirt-FnKHsc.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9e01f304-6d46-4b54-a3ce-6dc2f4eb6374/air-t-shirt-FnKHsc.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/01eca1de-01bb-4d51-844c-45253e7624a8/air-t-shirt-FnKHsc.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "t-shirts"
+    },
+    {
+        "title" : "Men's T-Shirt",
+        "price" : 42,
+        "description" : "You'll want to keep this loose-fitting tee within easy reach. Retro branding and sport-inspired details are paired with neutral colours to make it an easy-styling essential.",
+        "quantity" : 456,
+        "brand" :  "Nike Air",
+        "color" : "white",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a680ff03-056e-4379-9c88-6aeed381bc10/air-t-shirt-FnKHsc.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b2cb5932-2ae7-4265-bea2-ea9a7334f840/air-t-shirt-FnKHsc.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e27cbca4-513e-4e7e-9411-aeec83590d0e/air-t-shirt-FnKHsc.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a680ff03-056e-4379-9c88-6aeed381bc10/air-t-shirt-FnKHsc.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "t-shirts"
+    },
+    {
+        "title" : "Men's T-Shirt",
+        "price" : 45,
+        "description" : "This tee features premium, midweight cotton and our signature Max90 fit, which gives you some room through the sleeves and body for comfort and style. Now pull on this tee and rock it with your favourite Dunks.",
+        "quantity" : 124,
+        "brand" :  "Nike Sportswear",
+        "color" : "white",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/cccf250a-64dc-482b-97e6-e67ed8efd80b/sportswear-t-shirt-qpsCJg.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9e228732-28d2-41ec-90df-b60cfbbefb9c/sportswear-t-shirt-qpsCJg.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f3cf5793-da96-46eb-af03-e6dcefabe3c8/sportswear-t-shirt-qpsCJg.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/27dade56-9785-4fb0-801b-57a4541c2460/sportswear-t-shirt-qpsCJg.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/285db7dd-71cc-4050-8aad-05a0d2f12635/sportswear-t-shirt-qpsCJg.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "t-shirts"
+    },
+    {
+        "title" : "Men's T-Shirt",
+        "price" : 74,
+        "description" : "This tee features premium, midweight cotton and our signature Max90 fit, which gives you some room through the sleeves and body for comfort and style. Now pull on this tee and rock it with your favourite Dunks.",
+        "quantity" : 342,
+        "brand" :  "Nike Sportswear",
+        "color" : "black",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8e5691d3-29fb-4b8e-a2a5-5ef98d7e7756/sportswear-t-shirt-qpsCJg.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/073c4804-a577-485a-b786-3f167a0f31a6/sportswear-t-shirt-qpsCJg.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5a1048f1-70a3-487a-a78a-60515d2608cb/sportswear-t-shirt-qpsCJg.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1a1b2aed-fb35-4951-9298-56b2878c95ed/sportswear-t-shirt-qpsCJg.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8e5691d3-29fb-4b8e-a2a5-5ef98d7e7756/sportswear-t-shirt-qpsCJg.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "t-shirts"
+    },
+    {
+        "title" : "Men's Performance Top",
+        "price" : 100,
+        "description" : "Here's a tee that's made for going for it. It's made from a soft cotton blend enhanced with sweat-wicking technology to help keep you fresh from wake up to wind down.",
+        "quantity" : 457,
+        "brand" :  "Jordan Dri-FIT Sport",
+        "color" : "white",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/c5a2bfa6-75ab-4dd9-8d4d-4a2e69ce3084/jordan-dri-fit-sport-top-CXCRD4.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/29dc676c-7aa3-4230-b58d-d9fbecb977f9/jordan-dri-fit-sport-top-CXCRD4.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/983172b7-707c-461c-9d1e-a55e26fc8bb5/jordan-dri-fit-sport-top-CXCRD4.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/914bc04e-fa78-4deb-af33-835d67f2e838/jordan-dri-fit-sport-top-CXCRD4.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4e5d63f4-08af-4ed2-9d1b-2575bd549ad7/jordan-dri-fit-sport-top-CXCRD4.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "t-shirts"
+    },
+    {
+        "title" : "Men's Performance Top",
+        "price" : 140,
+        "description" : "Here's a tee that's made for going for it. It's made from a soft cotton blend enhanced with sweat-wicking technology to help keep you fresh from wake up to wind down.",
+        "quantity" : 434,
+        "brand" :  "Jordan Dri-FIT Sport",
+        "color" : "red",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f76c1ac9-cf48-405a-9da7-be9ebb0a8417/jordan-dri-fit-sport-top-CXCRD4.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ab968d48-0d5b-43df-964d-a1f1b2a9ac26/jordan-dri-fit-sport-top-CXCRD4.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/73f0d0d6-b0ee-4ddf-a708-a986ab9c372a/jordan-dri-fit-sport-top-CXCRD4.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e1751537-9614-473a-8c6d-b21f8a71bf5d/jordan-dri-fit-sport-top-CXCRD4.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f76c1ac9-cf48-405a-9da7-be9ebb0a8417/jordan-dri-fit-sport-top-CXCRD4.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "t-shirts"
+    },
+    {
+        "title" : "Men's Statement",
+        "price" : 20,
+        "description" : "When the moment calls for a button-down top. Made from a lightweight woven twill fabric we brushed lightly for added softness, this top trades buttons for press studs and features an all-over wash for a slightly weathered look.",
+        "quantity" : 342,
+        "brand" :  "Jordan Essentials",
+        "color" : "brown",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/7e9b36fd-8c0b-43ff-8ead-629a7ffbce97/jordan-essentials-statement-top-ksw5fW.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/76690eca-615b-45c4-a926-8a4f6559f195/jordan-essentials-statement-top-ksw5fW.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/788b91d3-1500-4f24-b112-7ba67fcc6a30/jordan-essentials-statement-top-ksw5fW.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/5bf0dc24-3886-4abc-99cd-247e82f32882/jordan-essentials-statement-top-ksw5fW.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/7aebd727-1437-4ff2-9ec7-1ff5a4b402f5/jordan-essentials-statement-top-ksw5fW.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "t-shirts"
+    },
+    {
+        "title" : "Men's Dri-FIT UV Short-Sleeve Fitness Top",
+        "price" : 84,
+        "description" : "Sometimes you run a marathon, sometimes you run to the corner shop. Do it all 24/7, 365 in this relaxed-fit top. It helps keep you dry with its soft, sweat-wicking fabric. Run, lift, train—this is your one stop for everything you need.",
+        "quantity" : 242,
+        "brand" :  "Nike Hyverse",
+        "color" : "white",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1232fcd7-538c-40e2-9100-e94fcbbe7d77/hyverse-dri-fit-uv-short-sleeve-fitness-top-lWD12c.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/51597e90-d207-4184-9bf1-15875694c22f/hyverse-dri-fit-uv-short-sleeve-fitness-top-lWD12c.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3f75477a-55b9-4568-8716-c521133f1d91/hyverse-dri-fit-uv-short-sleeve-fitness-top-lWD12c.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/26e4c035-b9fa-4ab1-b2d3-c1d0cf5f91a4/hyverse-dri-fit-uv-short-sleeve-fitness-top-lWD12c.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b412bd20-d94e-4114-9d26-e5b18b402133/hyverse-dri-fit-uv-short-sleeve-fitness-top-lWD12c.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "t-shirts"
+    },
+    {
+        "title" : "Men's Oversized T-shirt",
+        "price" : 47,
+        "description" : "Made from soft cotton with a spacious fit, this tee has a classic collar and jersey look for all the vintage vibes.",
+        "quantity" : 245,
+        "brand" :  "Nike Sportswear",
+        "color" : "white",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/480265ec-cd5c-4cce-a9bb-653f93b06a0a/sportswear-oversized-t-shirt-VJ6XFc.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7e93ac30-6989-4939-a8d0-4ed971d55b73/sportswear-oversized-t-shirt-VJ6XFc.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e6f7a367-159c-4c81-8128-4ad196e6b499/sportswear-oversized-t-shirt-VJ6XFc.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d1e773eb-7230-4329-9add-9a3eef32237d/sportswear-oversized-t-shirt-VJ6XFc.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/238587aa-a23c-43d6-97d6-c58bcd448b44/sportswear-oversized-t-shirt-VJ6XFc.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "t-shirts"
+    },
+    {
+        "title" : "Men's Oversized T-shirt",
+        "price" : 67,
+        "description" : "Time to elevate your T-shirt collection? This tee answers the call. Heavyweight cotton and a clean, embroidered Futura logo keep it simple for pairing up with any outfit. The oversize fit gives you plenty of extra space for casual style and easy layering.",
+        "quantity" : 452,
+        "brand" :  "Nike Sportswear",
+        "color" : "black",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7feabe43-c08c-4e32-bb19-d1fab0615fee/sportswear-oversized-t-shirt-ptNVST.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1116ec78-5b3f-469a-a352-3632e48e770a/sportswear-oversized-t-shirt-ptNVST.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1ea7ed04-5964-4ad8-a224-b884d15fb60c/sportswear-oversized-t-shirt-ptNVST.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7268fea3-8eb3-490d-96e4-964a6dae314d/sportswear-oversized-t-shirt-ptNVST.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6063dae6-fa05-4a0c-b7b5-fb816f26a450/sportswear-oversized-t-shirt-ptNVST.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "t-shirts"
+    },
+    {
+        "title" : "Men's T-Shirt",
+        "price" : 75,
+        "description" : "Here since '85 and still flying high. Let 'em know with a soft cotton tee that that celebrates Air Jordan's inaugural year.",
+        "quantity" : 789,
+        "brand" :  "Jordan Flight MVP 85",
+        "color" : "white",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/23d2e84f-9224-470b-8b3c-b0e2c3f63a18/jordan-flight-mvp-85-t-shirt-hdS3DZ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/24cb4405-91d5-4c9f-8933-c7201184a414/jordan-flight-mvp-85-t-shirt-hdS3DZ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/274d2027-fdc8-4dca-8fd2-6c08ef65b0a2/jordan-flight-mvp-85-t-shirt-hdS3DZ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/49f4155c-a62a-4fe6-ab93-1f687d904c87/jordan-flight-mvp-85-t-shirt-hdS3DZ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/c7e08d09-0b79-42e2-a685-9cc773bb8a09/jordan-flight-mvp-85-t-shirt-hdS3DZ.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "t-shirts"
+    },
+    {
+        "title" : "Men's T-Shirt",
+        "price" : 12,
+        "description" : "Count 'em. Watercolour-inspired graphics rep MJ's six championships on this relaxed cotton tee.",
+        "quantity" : 724,
+        "brand" :  "Jordan Flight Essentials",
+        "color" : "white",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b68cc6cb-4f63-4349-a719-dca741e3b48d/jordan-flight-essentials-t-shirt-TMMrFb.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/a6045f87-e02d-43e2-9568-980a47e80ade/jordan-flight-essentials-t-shirt-TMMrFb.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b33223b3-627b-4305-9ea1-8e0eef1939c8/jordan-flight-essentials-t-shirt-TMMrFb.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8c109fce-d83b-4d53-b2e0-9f68f019c18a/jordan-flight-essentials-t-shirt-TMMrFb.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/097dbf52-aab9-4e32-93a0-5a7029073f6c/jordan-flight-essentials-t-shirt-TMMrFb.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "t-shirts"
+    },
+    {
+        "title" : "Men's T-Shirt",
+        "price" : 73,
+        "description" : "",
+        "quantity" : 245,
+        "brand" :  "Jordan Flight MVP",
+        "color" : "gray",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1c7fb161-cbac-4ee1-a1a0-643bab68960d/nocta-graphic-tee-c84jXP.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a1e02da3-18da-40ef-8768-ddea0af41519/nocta-graphic-tee-c84jXP.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/09556b54-fb6d-48f5-91f5-a86bf4439462/nocta-graphic-tee-c84jXP.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8e0770ea-0a80-4e4b-8fde-0fa5aef2b6db/nocta-graphic-tee-c84jXP.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b4af6d05-9620-4b4a-8e50-7606d2246d3b/nocta-graphic-tee-c84jXP.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "t-shirts"
+    }
+]

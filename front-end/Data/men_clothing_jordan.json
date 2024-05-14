@@ -1,0 +1,362 @@
+[
+    {
+        "title" : "Men's Baseball Top",
+        "price" : 1000,
+        "description" : "Inspired by MJ's comeback sport, this relaxed press-stud-front top is just as at home on the baseball diamond as it is on city streets. Soft cotton gives it a structured feel",
+        "quantity" : 10,
+        "brand" :  "Jordan Flight MVP",
+        "color" : "white",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/2bc628e6-b2bf-4950-a5cf-790cd22173a2/jordan-flight-mvp-baseball-top-xRkw0f.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8bfd9170-a50e-445d-8821-865040952a8e/jordan-flight-mvp-baseball-top-xRkw0f.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/c46fa7ae-c9c8-4058-8b5a-da0188c2a283/jordan-flight-mvp-baseball-top-xRkw0f.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ba174348-feb7-4939-965e-e1ffdbe5e768/jordan-flight-mvp-baseball-top-xRkw0f.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/90b4c6b5-e283-4179-8a92-a600c424bdb9/jordan-flight-mvp-baseball-top-xRkw0f.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "Men's Dri-FIT Woven Diamond Shorts",
+        "price" : 250,
+        "description" : "Defence, attack or rest days, our Diamond shorts can handle it all. With a hem that falls at the mid-thigh, they allow you to move freely on the court, in the gym or when kicking it with friends.",
+        "quantity" : 10,
+        "brand" :  "Jordan Sport",
+        "color" : "green",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/0bcd88b4-db18-4908-bbb0-12c06f5da5d5/jordan-sport-dri-fit-woven-diamond-shorts-rDcJBM.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/7d25f8fe-9aa0-4cd0-acea-ec426a8c7b30/jordan-sport-dri-fit-woven-diamond-shorts-rDcJBM.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/a38f41c5-d34a-42ec-a96c-95bdc0325560/jordan-sport-dri-fit-woven-diamond-shorts-rDcJBM.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/1353bdbe-7ee5-47a9-a7bc-2e5144f2136d/jordan-sport-dri-fit-woven-diamond-shorts-rDcJBM.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4d77ceb4-2236-4eb3-8e88-fb63dee920fb/jordan-sport-dri-fit-woven-diamond-shorts-rDcJBM.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "Men's Oversized T-shirt",
+        "price" : 20,
+        "description" : "Designed with an intentionally oversized fit, this tee is ready for whatever the day brings. With a Jumpman woven patch on the chest, no one will question what you're about.",
+        "quantity" : 150,
+        "brand" :  "Jordan Flight Essentials",
+        "color" : "black",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b919b48e-a0be-4784-8442-f438a77da57d/jordan-flight-essentials-oversized-t-shirt-C7XVkQ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e24440e1-d7cf-4bf1-97cd-388fd4883bc4/jordan-flight-essentials-oversized-t-shirt-C7XVkQ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/618b78a2-0345-41d7-bca4-6fe78828bc18/jordan-flight-essentials-oversized-t-shirt-C7XVkQ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/18156bb2-e609-4503-a646-def4c1cb669c/jordan-flight-essentials-oversized-t-shirt-C7XVkQ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/1dd4f0db-cb0f-4aa0-9ff9-8c20ad2b6e94/jordan-flight-essentials-oversized-t-shirt-C7XVkQ.png"
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jordan"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jordan"
+    }
+]

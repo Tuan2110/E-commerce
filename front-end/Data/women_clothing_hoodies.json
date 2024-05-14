@@ -1,0 +1,362 @@
+[
+    {
+        "title" : "Women's Padded Sports Bra",
+        "price" : 10,
+        "description" : "You're on the move. Your padding shouldn't be. This Swoosh bra's sewn-in pads stay in place so you can work hard without worrying about them shifting or folding. Great for training workouts and dance classes, medium support gives you a snug hold that helps keep everything in place.",
+        "quantity" : 500,
+        "brand" :  "Nike Swoosh Medium-Support",
+        "color" : "pink",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f9ebc284-55ee-4100-8d5a-150b6c786eec/swoosh-support-padded-sports-bra-TDwlZM.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/929d5e4a-ffa2-4770-9064-d10023bb732a/swoosh-support-padded-sports-bra-TDwlZM.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/43798601-b0eb-4964-ac6e-cc8c22284b23/swoosh-support-padded-sports-bra-TDwlZM.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ae817f97-b14c-46d9-ad5e-c45b9592c410/swoosh-support-padded-sports-bra-TDwlZM.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2a4f63a0-f365-4c6d-89d3-8fbadb28b1fa/swoosh-support-padded-sports-bra-TDwlZM.png"
+            }
+        ],
+        "topLevelCategory": "women",
+        "secondLevelCategory": "wm_clothing",
+        "thirdLevelCategory": "performance"
+    },
+    {
+        "title" : "Women's Dri-FIT Short-Sleeve Cropped",
+        "price" : 200,
+        "description" : "Up for a workout or down to chill, this Nike One Classic top is ready for whatever you are. Lightweight, silky-smooth fabric dries quickly and works for wherever your day takes you. Its twisted back design adds an edge to your look while giving you plenty of airflow",
+        "quantity" : 50,
+        "brand" :  "Nike One Classic",
+        "color" : "brown",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/abb6efb3-8bed-4279-bfaa-ea43201e6ef3/one-classic-dri-fit-short-sleeve-cropped-twist-top-3hW7tp.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/98ba5bee-7dd9-44e6-bcfb-acdc7fdbd9f9/one-classic-dri-fit-short-sleeve-cropped-twist-top-3hW7tp.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/241f1dfb-dd20-4825-87e0-5130241847c5/one-classic-dri-fit-short-sleeve-cropped-twist-top-3hW7tp.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b4aa610c-5a0a-46d5-8abc-058d2703aead/one-classic-dri-fit-short-sleeve-cropped-twist-top-3hW7tp.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/dd2d2964-37db-4cad-90e4-d16d2a197a03/one-classic-dri-fit-short-sleeve-cropped-twist-top-3hW7tp.png"
+            }
+        ],
+        "topLevelCategory": "women",
+        "secondLevelCategory": "wm_clothing",
+        "thirdLevelCategory": "t-shirts"
+    },
+    {
+        "title" : "Women's Light-Support Padded Sports Bra",
+        "price" : 300,
+        "description" : "Feel confident all day long in this light-support bra. A sewn-in 1-piece pad offers enhanced coverage and shaping while sweat-wicking technology keeps you cool and comfortable. The Infinalon fabric of the body",
+        "quantity" :242 ,
+        "brand" :  "Nike Zenvy Strappy",
+        "color" : "pink",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7a0c9e5d-d0c1-4303-a199-01d57c28be48/zenvy-strappy-light-support-padded-sports-bra-1HJfhZ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/35ecfc58-3fed-4dea-83fe-633c972088a4/zenvy-strappy-light-support-padded-sports-bra-1HJfhZ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/91070875-9028-4bb8-8ec9-d2906ed361c3/zenvy-strappy-light-support-padded-sports-bra-1HJfhZ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/28ee54e5-4dd0-4df2-83f4-92256e06024a/zenvy-strappy-light-support-padded-sports-bra-1HJfhZ.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ac78cafa-be4e-4a0e-88e7-9ec6fb36f8db/zenvy-strappy-light-support-padded-sports-bra-1HJfhZ.png"
+            }
+        ],
+        "topLevelCategory": "women",
+        "secondLevelCategory": "wm_clothing",
+        "thirdLevelCategory": "sports"
+    },
+    {
+        "title" : "Women's High-Rise Woven Cargo Trousers",
+        "price" : 50,
+        "description" : "These trousers are relaxed through the leg for a carefree, comfortable feel. Unlined woven fabric feels soft and smooth against your skin while still looking crisp. Patch cargo pockets offer a utility look and quick storage.",
+        "quantity" : 520,
+        "brand" :  "Nike Sportswear Essential",
+        "color" : "white",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/028774db-72c0-45a6-8b71-3eed6f2a5967/sportswear-essential-high-rise-woven-cargo-trousers-HXzpgX.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a7ab9f20-3520-44c4-86ff-857f2bf5bb5d/sportswear-essential-high-rise-woven-cargo-trousers-HXzpgX.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a779732d-95be-4de3-87a9-b5e3f70ce5e0/sportswear-essential-high-rise-woven-cargo-trousers-HXzpgX.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d39f3e67-7b84-4ab6-b918-b679a8aa54f9/sportswear-essential-high-rise-woven-cargo-trousers-HXzpgX.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d85ca2d0-32b0-4a43-82c4-20383fd4042e/sportswear-essential-high-rise-woven-cargo-trousers-HXzpgX.png"
+            }
+        ],
+        "topLevelCategory": "women",
+        "secondLevelCategory": "wm_clothing",
+        "thirdLevelCategory": "pants"
+    },
+    {
+        "title" : "Women's Over-Oversized",
+        "price" : 90,
+        "description" : "Grounded in style, comfort and versatility, meet our take on luxury loungewear. Our roomiest fit paired with exaggerated details (like taller ribbing) ensures this sweatshirt is anything but basic.",
+        "quantity" : 100,
+        "brand" :  "Nike Sportswear",
+        "color" : "white",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/285f6dd0-ad6d-4ce0-a7fe-e36446dd922a/sportswear-phoenix-fleece-over-oversized-crew-neck-french-terry-sweatshirt-VjvR4t.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c6780622-91b2-40d3-a768-626b462608ad/sportswear-phoenix-fleece-over-oversized-crew-neck-french-terry-sweatshirt-VjvR4t.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f1043f91-b12b-490a-b8f3-397ce40da082/sportswear-phoenix-fleece-over-oversized-crew-neck-french-terry-sweatshirt-VjvR4t.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e12bd064-5cbc-4cbe-ab24-3a77cf44aafd/sportswear-phoenix-fleece-over-oversized-crew-neck-french-terry-sweatshirt-VjvR4t.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c285462e-0947-4edb-92d0-12683b6f64ee/sportswear-phoenix-fleece-over-oversized-crew-neck-french-terry-sweatshirt-VjvR4t.png"
+            }
+        ],
+        "topLevelCategory": "women",
+        "secondLevelCategory": "wm_clothing",
+        "thirdLevelCategory": "hoodies"
+    },
+    {
+        "title" : "Women's Dri-FIT ADV",
+        "price" : 80,
+        "description" : "One more step—then another one—and another. With advanced engineering and lightweight moisture-wicking fabric, these shorts make it easier for you to stay focused on your stride.",
+        "quantity" : 200,
+        "brand" :  "Nike AeroSwift",
+        "color" : "green",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/29ba710e-6646-46c0-86aa-7b29eae8a7f5/aeroswift-dri-fit-adv-mid-rise-brief-lined-8cm-running-shorts-z7RldM.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/031f016d-36ae-4596-ac66-6d78253291de/aeroswift-dri-fit-adv-mid-rise-brief-lined-8cm-running-shorts-z7RldM.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/89eeb32f-530c-4bbd-b699-7893e13acd07/aeroswift-dri-fit-adv-mid-rise-brief-lined-8cm-running-shorts-z7RldM.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/20fa8646-c728-4d4e-9d66-2173158a9aa6/aeroswift-dri-fit-adv-mid-rise-brief-lined-8cm-running-shorts-z7RldM.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c9b94501-6b60-49b1-988f-c405088b75e3/aeroswift-dri-fit-adv-mid-rise-brief-lined-8cm-running-shorts-z7RldM.png"
+            }
+        ],
+        "topLevelCategory": "women",
+        "secondLevelCategory": "wm_clothing",
+        "thirdLevelCategory": "shorts"
+    },
+    {
+        "title" : "Women's Dri-FIT Loose Jacket",
+        "price" : 150,
+        "description" : "Don't let a little wind hold you back from participating in sport. We made this classic windbreaker from a sweat-wicking",
+        "quantity" : 30,
+        "brand" :  "Nike One",
+        "color" : "brown",
+        "product_images" : [
+            {
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/22bb26c3-4045-48d8-9126-0ad000cff5ea/one-dri-fit-loose-jacket-cn2Xcd.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d2478d40-a910-42c8-a7b6-98dc5ac7197e/one-dri-fit-loose-jacket-cn2Xcd.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/929a95b5-3545-422d-974c-04fa91819997/one-dri-fit-loose-jacket-cn2Xcd.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9582e85d-9052-4a81-9504-8c44a45b67fb/one-dri-fit-loose-jacket-cn2Xcd.png"
+            },{
+                "image_url" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bd527dfc-6cfc-452f-bd4d-0d12267e6912/one-dri-fit-loose-jacket-cn2Xcd.png"
+            }
+        ],
+        "topLevelCategory": "women",
+        "secondLevelCategory": "wm_clothing",
+        "thirdLevelCategory": "jackets"
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "women",
+        "secondLevelCategory": "wm_clothing",
+        "thirdLevelCategory": ""
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "women",
+        "secondLevelCategory": "wm_clothing",
+        "thirdLevelCategory": ""
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "women",
+        "secondLevelCategory": "wm_clothing",
+        "thirdLevelCategory": ""
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "women",
+        "secondLevelCategory": "wm_clothing",
+        "thirdLevelCategory": ""
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "women",
+        "secondLevelCategory": "wm_clothing",
+        "thirdLevelCategory": ""
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "women",
+        "secondLevelCategory": "wm_clothing",
+        "thirdLevelCategory": ""
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "women",
+        "secondLevelCategory": "wm_clothing",
+        "thirdLevelCategory": ""
+    },
+    {
+        "title" : "",
+        "price" : ,
+        "description" : "",
+        "quantity" : ,
+        "brand" :  "",
+        "color" : "",
+        "product_images" : [
+            {
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            },{
+                "image_url" : ""
+            }
+        ],
+        "topLevelCategory": "women",
+        "secondLevelCategory": "wm_clothing",
+        "thirdLevelCategory": ""
+    }
+]
